@@ -21,6 +21,9 @@ git clone https://github.com/karlcoolboy/HuaweiOnboardingTool.git
 
 # 安装依赖
 pip install -r requirements.txt
+
+#运行
+python huawei.py
 ```
 
 ## 使用方式
