@@ -15,10 +15,20 @@
 
 ## 🚀 快速开始
 
-### 前置要求
-- Python 3.7+
-- 依赖库：`requests`, `configparser`
+```bash
+# 克隆仓库
+git clone https://github.com/karlcoolboy/HuaweiOnboardingTool.git
 
-### 一键运行exe程序
+# 安装依赖
+pip install -r requirements.txt
+```
 
-需要请联系我吧：[wssssorg@qq.com](mailto:wssssorg@qq.com)
+## 使用方式
+
+一键运行exe程序
+[下载](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/tag/V1.0)打包好的exe程序双击运行
+
+不会使用请联系我：[wssssorg@qq.com](mailto:wssssorg@qq.com)
+
+## 开源协议
+MIT License
