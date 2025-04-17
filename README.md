@@ -30,5 +30,12 @@ pip install -r requirements.txt
 
 不会使用请联系我：[wssssorg@qq.com](mailto:wssssorg@qq.com)
 
+## 🌟 打赏支持
+如果您觉得这个项目有帮助，欢迎请作者喝杯咖啡：
+
+| 支付宝 | 微信 |
+|--------|------|
+| ![支付宝二维码](https://blog.wssss.org.cn/usr/uploads/2023/02/2320184992.png) | ![微信二维码](https://blog.wssss.org.cn/usr/uploads/2023/02/3555771655.png) |
+
 ## 开源协议
 MIT License
