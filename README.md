@@ -31,6 +31,8 @@ python huawei.py
 一键运行exe程序
 [下载]([https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/tag/V1.0](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/download/HuaweiOnboardingTool-release/HuaweiOnboardingTool-windows-latest.exe))打包好的exe程序双击运行
 
+[Web界面版](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/download/HuaweiOnboardingTool-release-14/HuaweiOnboardingTool-windows-latest-web.exe)
+
 不会使用请联系我：[wssssorg@qq.com](mailto:wssssorg@qq.com)
 
 ## 🌟 打赏支持
