@@ -29,7 +29,7 @@ python huawei.py
 ## 使用方式
 
 一键运行exe程序
-[下载]([https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/tag/V1.0](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/download/HuaweiOnboardingTool-release/HuaweiOnboardingTool-windows-latest.exe))打包好的exe程序双击运行
+[Releases下载](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases)打包好的exe程序双击运行
 
 [HuaweiOnboardingTool-windows-latest-web.exe](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/download/HuaweiOnboardingTool-release-19/HuaweiOnboardingTool-windows-latest-web.exe)
 
