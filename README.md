@@ -35,7 +35,7 @@ python huawei.py
 
 [HuaweiOnboardingTool-windows-latest-gui.exe](https://github.com/karlcoolboy/HuaweiOnboardingTool/releases/download/HuaweiOnboardingTool-release-24/HuaweiOnboardingTool-windows-latest-gui.exe)
 
-[👉具体配置教程](https://blog.wssss.org.cn/archives/HuaweiOnboardingTool-406.html)
+[👉具体配置教程【内有临时授权码】](https://blog.wssss.org.cn/archives/HuaweiOnboardingTool-406.html)
 
 不会使用请联系我：[wssssorg@qq.com](mailto:wssssorg@qq.com) 【个人自用工具，打赏后获取授权码，介意勿扰，抱歉】
 
