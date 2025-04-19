@@ -46,5 +46,29 @@ python huawei.py
 |--------|------|
 | ![支付宝二维码](https://blog.wssss.org.cn/usr/uploads/2023/02/2320184992.png) | ![微信二维码](https://blog.wssss.org.cn/usr/uploads/2023/02/3555771655.png) |
 
-## 开源协议
-MIT License
+## 📄 免责声明 | Disclaimer
+
+本工具仅为**个人自用**开发，旨在**简化华为入职预约流程中的重复步骤**，通过模拟用户已登录状态下的网页请求，自动提交预约申请请求，以提升效率。
+
+- 工具不会存储、收集或上传任何用户的隐私数据，**所有请求标头和 Cookie 信息均由用户本地配置**（如 `config.txt`）；
+- 本工具不模拟登录行为，**仅在用户登录后操作**并发起正常的官方预约请求；
+- 请勿将本工具用于**任何违反目标平台使用条款或接口规定**的行为；
+- **一切使用后果由用户自行承担**，包括但不限于预约失败、账号异常等，开发者不对任何滥用或意外后果负责；
+- 本工具开源透明，遵循 [MIT License](LICENSE)，可自由复制、修改、分发，**建议使用前自行审阅代码内容**；
+- 使用过程中请注意合理设置请求频率，避免给目标服务器带来不必要压力。
+
+> ⚠️ 本项目为自用学习性质，禁止非法传播。介意者请勿使用。
+
+---
+
+This tool is developed **for personal use only**, designed to **simplify the repetitive steps involved in Huawei onboarding appointment processes**, by automatically submitting requests after the user logs into the official website.
+
+- The tool does **not store, collect, or upload any sensitive user data**. All request headers and cookies must be configured **locally by the user** (e.g., in `config.txt`);
+- It does **not simulate login**, and only works **after the user has manually logged in**;
+- **Do not use this tool in violation of the target platform's terms of service** or API usage policies;
+- The user **takes full responsibility** for all outcomes, including but not limited to appointment failure or account issues. The developer shall not be held liable;
+- The project is fully open-source under the [MIT License](LICENSE). Feel free to inspect, use, and modify the code at your own discretion;
+- Please ensure reasonable request frequency to avoid putting unnecessary load on the target server.
+
+> ⚠️ For educational and private use only. Unauthorized distribution is strictly prohibited.
+
